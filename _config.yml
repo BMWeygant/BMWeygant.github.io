@@ -1,11 +1,11 @@
 # Site settings
-author: BRANDON M WEYGANT
-title: 
+author: Brandon Weygant
+title: Brandon's Coding Journal
 header-img: img/home-bg.png
 email: bobbydigital108@gmail.com
-copyright_name: BRANDON M WEYGANT
+copyright_name: Brandon Weygant
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Based On Probably Something Similar To A True Story
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BMWeygant
